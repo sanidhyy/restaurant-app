@@ -2,6 +2,20 @@
   "name": "restaurant-app",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
+  "author": "Sanidhya Kr. Verma",
+  "description": "Best Restaurant App using React JS",
+  "keywords": [
+    "reactjs",
+    "react",
+    "restaurant-app",
+    "food-app",
+    "modern-ui/ux",
+    "js",
+    "javascript",
+    "html",
+    "css"
+  ],
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
