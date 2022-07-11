@@ -52,7 +52,9 @@ const Footer = () => (
 
     <div className="footer__copyright">
       <p className="p__opensans">
-        {new Date().getFullYear()} Gerîcht. All Rights Reserved.
+        {new Date().getFullYear()}{" "}
+        <span style={{ color: "var(--color-golden)" }}>Gerîcht</span>. All
+        Rights Reserved.
       </p>
     </div>
   </div>

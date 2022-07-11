@@ -30,7 +30,7 @@ const SpecialMenu = () => (
         <img src={images.menu} alt="Menu" />
       </div>
 
-      <div className="app__specialMenu-menu_cocktail flex__center">
+      <div className="app__specialMenu-menu_cocktails flex__center">
         <p className="app__specialMenu-menu_heading">Cocktails</p>
         <div className="app__specialMenu-menu_items">
           {data.cocktails.map((cocktail, index) => (
