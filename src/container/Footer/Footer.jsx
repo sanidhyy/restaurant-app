@@ -14,8 +14,15 @@ const Footer = () => (
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">Contact Us</h1>
         <p className="p__opensans">9 W 53rd St,New York, NY 10019, USA</p>
-        <p className="p__opensans">+1 212-344-1230</p>
-        <p className="p__opensans">+1 311-654-1222</p>
+        <p className="p__opensans">
+          <a href="tel:+1212-344-1230">+1 212-344-1230</a>
+        </p>
+        <p className="p__opensans">
+          <a href="tel:+1311-654-1222">+1 311-654-1222</a>
+        </p>
+        <p className="p__opensans" style={{ textTransform: "lowercase" }}>
+          <a href="mailto:contact@gericht.com">contact@gericht.com</a>
+        </p>
       </div>
       <div className="app__footer-links_logo">
         <img src={images.gericht} alt="Gericht" />
