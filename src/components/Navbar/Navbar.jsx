@@ -33,10 +33,12 @@ const Navbar = () => {
       </ul>
 
       <div className="app__navbar-login">
+        {/* eslint-disable-next-line */}
         <a href="#" className="p__opensans">
           Log In/Register
         </a>
         <div />
+        {/* eslint-disable-next-line */}
         <a href="#" className="p__opensans">
           Book Table
         </a>
