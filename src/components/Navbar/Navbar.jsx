@@ -9,6 +9,30 @@ import "./Navbar.css";
 const Navbar = () => {
   const [toggleMenu, setToggleMenu] = useState(false);
 
+  // Navbar Links
+  const links = [
+    {
+      text: "Home",
+      url: "#home",
+    },
+    {
+      text: "About",
+      url: "#about",
+    },
+    {
+      text: "Menu",
+      url: "#menu",
+    },
+    {
+      text: "Awards",
+      url: "#awards",
+    },
+    {
+      text: "Contact",
+      url: "#awards",
+    },
+  ];
+
   return (
     <nav className="app__navbar">
       {/* Brand Logo */}
@@ -17,26 +41,11 @@ const Navbar = () => {
       </div>
 
       <ul className="app__navbar-links">
-        {/* Home */}
-        <li className="p__opensans">
-          <a href="#home">Home</a>
-        </li>
-        {/* About */}
-        <li className="p__opensans">
-          <a href="#about">About</a>
-        </li>
-        {/* Menu */}
-        <li className="p__opensans">
-          <a href="#menu">Menu</a>
-        </li>
-        {/* Awards */}
-        <li className="p__opensans">
-          <a href="#awards">Awards</a>
-        </li>
-        {/* Contact */}
-        <li className="p__opensans">
-          <a href="#contact">Contact</a>
-        </li>
+        {links.map((link) => (
+          <li className="p__opensans">
+            <a href={link.url}>{link.text}</a>
+          </li>
+        ))}
       </ul>
 
       <div className="app__navbar-login">
@@ -73,26 +82,11 @@ const Navbar = () => {
             />
             {/* Small Screen Menu */}
             <ul className="app__navbar-smallscreen_links">
-              {/* Home */}
-              <li className="p__opensans">
-                <a href="#home">Home</a>
-              </li>
-              {/* About */}
-              <li className="p__opensans">
-                <a href="#about">About</a>
-              </li>
-              {/* Menu */}
-              <li className="p__opensans">
-                <a href="#menu">Menu</a>
-              </li>
-              {/* Awards */}
-              <li className="p__opensans">
-                <a href="#awards">Awards</a>
-              </li>
-              {/* Contact */}
-              <li className="p__opensans">
-                <a href="#contact">Contact</a>
-              </li>
+              {links.map((link) => (
+                <li className="p__opensans">
+                  <a href={link.url}>{link.text}</a>
+                </li>
+              ))}
             </ul>
           </div>
         )}
