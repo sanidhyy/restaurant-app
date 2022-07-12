@@ -9,6 +9,7 @@ import { SubHeading } from "../../components";
 import { images } from "../../constants";
 import "./Gallery.css";
 
+// Gallery Images
 const galleryImages = [
   images.gallery01,
   images.gallery02,
@@ -16,9 +17,12 @@ const galleryImages = [
   images.gallery04,
 ];
 
+// Gallery
 const Gallery = () => {
+  // scroll ref
   const scrollRef = useRef(null);
 
+  // scroll
   const scroll = (direction) => {
     const { current } = scrollRef;
 
@@ -32,18 +36,23 @@ const Gallery = () => {
   return (
     <div className="app__gallery flex__center">
       <div className="app__gallery-content">
+        {/* Sub Heading */}
         <SubHeading title="Instagram" />
+        {/* Heading */}
         <h1 className="headtext__cormorant">Photo Gallery</h1>
+        {/* Info */}
         <p className="p__opensans" style={{ color: "#AAA", marginTop: "2rem" }}>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat
           mattis ipsum turpis elit elit scelerisque egestas mu.
         </p>
 
+        {/* View More */}
         <button type="button" className="custom__button">
           View More
         </button>
       </div>
 
+      {/* Gallery images */}
       <div className="app__gallery-images">
         <div className="app__gallery-images_container" ref={scrollRef}>
           {galleryImages.map((image, index) => (
@@ -52,16 +61,19 @@ const Gallery = () => {
               key={`gallery_image-${index + 1}`}
             >
               <img src={image} alt={`Gallery ${index + 1}`} />
+              {/* instagram icon */}
               <BsInstagram className="gallery__image-icon" />
             </div>
           ))}
         </div>
 
         <div className="app__gallery-images_arrows">
+          {/* Left Arrow */}
           <BsArrowLeftShort
             className="gallery__arrow-icon"
             onClick={() => scroll("left")}
           />
+          {/* Right Arrow */}
           <BsArrowRightShort
             className="gallery__arrow-icon"
             onClick={() => scroll("right")}
