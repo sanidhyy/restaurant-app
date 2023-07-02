@@ -30,6 +30,8 @@
 .app__footer-links_logo img:first-child {
   width: 210px;
   margin-bottom: 0.75rem;
+  filter: invert(100%);
+  -webkit-filter: invert(100%);
 }
 
 .app__footer-links_work p:nth-child(2n + 1) {
