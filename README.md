@@ -2,14 +2,14 @@
 
 ![A Restaurant Showcase App using React JS](https://user-images.githubusercontent.com/71302066/180599544-08c03f44-857f-45b1-896c-7edda5d5f82d.png "A Restaurant Showcase App using React JS")
 
-[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Technical-Shubham-tech "Ask Me Anything!")
-[![GitHub license](https://img.shields.io/github/license/Technical-Shubham-tech/restaurant-app)](https://github.com/Technical-Shubham-tech/restaurant-app/blob/main/LICENSE.md "GitHub license")
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Technical-Shubham-tech/restaurant-app/commits/main "Maintenance")
-[![GitHub branches](https://badgen.net/github/branches/Technical-Shubham-tech/restaurant-app)](https://github.com/Technical-Shubham-tech/restaurant-app/branches "GitHub branches")
-[![Github commits](https://badgen.net/github/commits/Technical-Shubham-tech/restaurant-app/main)](https://github.com/Technical-Shubham-tech/restaurant-app/commits "Github commits")
+[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/sanidhyy "Ask Me Anything!")
+[![GitHub license](https://img.shields.io/github/license/sanidhyy/restaurant-app)](https://github.com/sanidhyy/restaurant-app/blob/main/LICENSE.md "GitHub license")
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sanidhyy/restaurant-app/commits/main "Maintenance")
+[![GitHub branches](https://badgen.net/github/branches/sanidhyy/restaurant-app)](https://github.com/sanidhyy/restaurant-app/branches "GitHub branches")
+[![Github commits](https://badgen.net/github/commits/sanidhyy/restaurant-app/main)](https://github.com/sanidhyy/restaurant-app/commits "Github commits")
 [![Netlify Status](https://api.netlify.com/api/v1/badges/057847bf-cff3-4dbb-a562-df8e1cf7fcbb/deploy-status)](https://restaurant-reactjs.netlify.app/ "Netlify Status")
-[![GitHub issues](https://img.shields.io/github/issues/Technical-Shubham-tech/restaurant-app)](https://github.com/Technical-Shubham-tech/restaurant-app/issues "GitHub issues")
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/Technical-Shubham-tech/restaurant-app)](https://github.com/Technical-Shubham-tech/restaurant-app/pulls "GitHub pull requests")
+[![GitHub issues](https://img.shields.io/github/issues/sanidhyy/restaurant-app)](https://github.com/sanidhyy/restaurant-app/issues "GitHub issues")
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/sanidhyy/restaurant-app)](https://github.com/sanidhyy/restaurant-app/pulls "GitHub pull requests")
 
 ## :warning: Before you start
 
@@ -41,7 +41,7 @@
 
 [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="150" height="40" />](https://developer.mozilla.org/en-US/docs/Web/CSS/ "CSS3")
 
-[<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love">](https://github.com/Technical-Shubham-tech "Built with Love")
+[<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love">](https://github.com/sanidhyy "Built with Love")
 
 ## :wrench: Stats
 
@@ -57,8 +57,8 @@ You might encounter some bugs while using this app. You are more than welcome to
 
 ## :rocket: Follow Me
 
-[![GitHub followers](https://img.shields.io/github/followers/Technical-Shubham-tech?style=social&label=Follow&maxAge=2592000)](https://github.com/Technical-Shubham-tech "Follow Me")
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FTechnical-Shubham-tech%2Fmedical-chat-app "Tweet")
+[![GitHub followers](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/sanidhyy "Follow Me")
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsanidhyyy)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2Fmedical-chat-app "Tweet")
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNAz_hUVBG2ZUN8TVm0bmYw "Subscribe my Channel")
 
 ## :star: Give A Star
