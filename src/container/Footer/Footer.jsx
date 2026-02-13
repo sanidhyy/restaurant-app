@@ -52,7 +52,7 @@ const Footer = () => (
           <a href="https://facebook.com" target="_blank" rel="noreferrer">
             <FiFacebook />
           </a>
-          <a href="https://twitter.com" target="_blank" rel="noreferrer">
+          <a href="https://x.com/_sanidhyy" target="_blank" rel="noreferrer">
             <FiTwitter />
           </a>
           <a href="https://instagram.com" target="_blank" rel="noreferrer">
