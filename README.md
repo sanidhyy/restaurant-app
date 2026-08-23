@@ -25,6 +25,14 @@
 4. Once packages are installed, you can start this app using `npm start` or `yarn start`.
 5. Now app is fully configured and you can start using this app :+1:.
 
+### :raising_hand: Need Help?
+
+If you run into issues during installation or setup:
+
+- **GitHub Discussions** — [Open a Q&A discussion](https://github.com/sanidhyy/restaurant-app/discussions/new?category=q-a) for setup and troubleshooting help.
+- **Email** — [sanidhyyy@gmail.com](mailto:sanidhyyy@gmail.com)
+- **Discord** — `sanidhyy`
+
 ## :camera: Screenshots:
 
 ![Modern UI/UX](https://user-images.githubusercontent.com/71302066/180599544-08c03f44-857f-45b1-896c-7edda5d5f82d.png "Modern UI/UX")
